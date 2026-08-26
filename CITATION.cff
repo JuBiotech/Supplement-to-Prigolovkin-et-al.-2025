@@ -1,0 +1,48 @@
+abstract: <p>Release of Supplementary Figures, Paper Graphs and Turbidity Assay Code for 8 Samples.</p>
+authors:
+- affiliation: "Forschungszentrum J\xFClich"
+  family-names: Prigolovkin
+  given-names: Lisa
+  orcid: 0009-0009-6066-374X
+- affiliation: "Forschungszentrum J\xFClich"
+  family-names: Osthege
+  given-names: Michael
+  orcid: 0000-0002-2734-7624
+- affiliation: "Forschungszentrum J\xFClich"
+  family-names: Siska
+  given-names: Maximilian
+  orcid: 0000-0002-1731-559X
+- affiliation: "Forschungszentrum J\xFClich"
+  family-names: Sander
+  given-names: Josefin
+- affiliation: "Forschungszentrum J\xFClich"
+  family-names: Hoffzimmer
+  given-names: Anja
+- affiliation: "Forschungszentrum J\xFClich"
+  family-names: Wiechert
+  given-names: Wolfgang
+  orcid: 0000-0001-8501-0694
+- affiliation: "Universit\xE4t Ulm"
+  family-names: Desiderato
+  given-names: Christian K.
+  orcid: 0000-0003-4911-3850
+- affiliation: "Universit\xE4t Ulm"
+  family-names: Riedel
+  given-names: Christian U.
+  orcid: 0000-0001-7134-7085
+- affiliation: "Forschungszentrum J\xFClich"
+  family-names: Oldiges
+  given-names: Marco
+  orcid: 0000-0003-0704-5597
+cff-version: 1.2.0
+date-released: '2025-09-02'
+doi: 10.5281/zenodo.17036233
+identifiers:
+- type: swh
+  value: swh:1:dir:9297aab189f49512d6926b4c50947a53dffe997e;origin=https://doi.org/10.5281/zenodo.17036232;visit=swh:1:snp:ad2d403ebdcf9d6b1d26102e9f7147e31f8bc8b1;anchor=swh:1:rel:f4dd5c7481474721afea100e94ad297af6eb3efa;path=JuBiotech-Supplement-to-Prigolovkin-et-al.-2025-a09ca84
+license:
+- agpl-3.0-only
+message: If you use this software, please cite it using the metadata from this file.
+title: 'JuBiotech/Supplement-to-Prigolovkin-et-al.-2025: 2025-09-02'
+type: software
+version: 2025-09-02-v1
